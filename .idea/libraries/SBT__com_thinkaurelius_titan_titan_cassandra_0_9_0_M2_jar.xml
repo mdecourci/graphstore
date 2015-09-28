@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.thinkaurelius.titan:titan-cassandra:0.9.0-M2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.thinkaurelius.titan/titan-cassandra/jars/titan-cassandra-0.9.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.thinkaurelius.titan/titan-cassandra/docs/titan-cassandra-0.9.0-M2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.thinkaurelius.titan/titan-cassandra/srcs/titan-cassandra-0.9.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.orientechnologies:orientdb-enterprise:2.1.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.orientechnologies/orientdb-enterprise/jars/orientdb-enterprise-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.orientechnologies/orientdb-enterprise/docs/orientdb-enterprise-2.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.orientechnologies/orientdb-enterprise/srcs/orientdb-enterprise-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

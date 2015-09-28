@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.michaelpollmeier:orientdb-gremlin:3.0.0.M1a:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.michaelpollmeier/orientdb-gremlin/jars/orientdb-gremlin-3.0.0.M1a.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.michaelpollmeier/orientdb-gremlin/docs/orientdb-gremlin-3.0.0.M1a-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.michaelpollmeier/orientdb-gremlin/srcs/orientdb-gremlin-3.0.0.M1a-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.carrotsearch.randomizedtesting:randomizedtesting-runner:2.0.8:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.carrotsearch.randomizedtesting/randomizedtesting-runner/jars/randomizedtesting-runner-2.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.carrotsearch.randomizedtesting/randomizedtesting-runner/docs/randomizedtesting-runner-2.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.carrotsearch.randomizedtesting/randomizedtesting-runner/srcs/randomizedtesting-runner-2.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
