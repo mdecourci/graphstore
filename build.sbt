@@ -2,7 +2,11 @@ name := "GraphStore"
 
 version := "1.0"
 
-scalaVersion := "2.10.6"
+scalaVersion := "2.11.7"
+
+resolvers += "spray repo" at "http://repo.spray.io"
+
+resolvers += Resolver.mavenLocal
 
 val Oversion = "2.1.2"
 val titanV = "0.9.0-M2"
@@ -12,7 +16,7 @@ fork := true
 libraryDependencies ++= Seq(
   "com.michaelpollmeier" % "gremlin-scala_2.10" % "3.0.0.M9-incubating",
   "com.michaelpollmeier" % "orientdb-gremlin" % "3.0.0.M1a",
-  "org.scalatest" %% "scalatest" % "2.2.5" % Test,
+  "org.scalatest" %% "scalatest" % "2.2.5" % "test",
   "com.orientechnologies" % "orientdb-client" % Oversion,
   //  "com.orientechnologies" % "orientdb-enterprise" % Oversion,
   /*"com.orientechnologies" % "orientdb-core" % Oversion,*/

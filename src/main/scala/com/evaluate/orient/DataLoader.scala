@@ -8,7 +8,7 @@ import org.apache.tinkerpop.gremlin.orientdb.OrientGraphFactory
  */
 object DataLoader {
   def main(args: Array[String]): Unit = {
-    val graph = new OrientGraphFactory("remote:localhost/barcap","admin","admin").getNoTx
+    val graph = new OrientGraphFactory("memory:localhost/barcap","admin","admin").getNoTx
     val sg = ScalaGraph(graph)
 
     val marko = sg.addVertex("person", Map("name" -> "marko", "age" -> 29))
